@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aravind24k
 - 👀 I’m interested in startups, tech, travel, stock markets
-- 🌱 I’m currently learning Kubernetes 
 - 💞️ I’m looking to collaborate on business plannings
 - 📫 How to reach me Mobile: 9738554979
 
